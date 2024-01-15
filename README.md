@@ -1,0 +1,1 @@
+Flutter ile Görevler uygulaması Yaptım.  İlk sayfada görev ekle ve görev sil butonları mevcut. Görev Ekle butonu ile ikinci sayfaya geçip dilediğimiz şekilde görev ekliyoruz. Kaydedilen butonları görev sil butonu ile check box'dan seçilen ve tarihi geçmiş olan görevleri siliyoruz.
